@@ -24,4 +24,6 @@ Arboretum is a short adventure game.
 
 ## Textures and images
 
+* [Particle Pack](https://www.kenney.nl/assets/particle-pack) by Kenney
+
 ## Fonts
