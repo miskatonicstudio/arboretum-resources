@@ -37,7 +37,7 @@ The game also uses the following plugins:
 
 ## Textures and images
 
-* [Particle Pack](https://www.kenney.nl/assets/particle-pack) by Kenney
+* [Particle Pack](https://www.kenney.nl/assets/particle-pack) by [Kenney](https://www.kenney.nl/)
 
 ## Fonts
 
