@@ -10,7 +10,7 @@ distributed under [MIT license](https://godotengine.org/license).
 
 ## Plugins
 
-Arboretum was created using [GOAT](https://github.com/miskatonicstudio.com/goat) (Godot Open Adventure Template),
+Arboretum was created using [GOAT](https://github.com/miskatonicstudio/goat) (Godot Open Adventure Template),
 a tool for making 3D first-person adventure games.
 
 It also uses the following plugins:
