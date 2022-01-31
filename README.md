@@ -38,3 +38,5 @@ It also uses the following plugins:
 * [Particle Pack](https://www.kenney.nl/assets/particle-pack) by Kenney
 
 ## Fonts
+
+* [Metropolis](https://www.1001fonts.com/metropolis-font.html) ([SIL Open Font License](http://scripts.sil.org/OFL))
