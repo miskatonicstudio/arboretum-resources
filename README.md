@@ -26,6 +26,7 @@ The game also uses the following plugins:
 * [Dried trees](https://www.cgtrader.com/3d-models/plant/other/dried-trees)
 * [Generator](https://www.cgtrader.com/3d-models/industrial/tool/generator-d8ace436-d1b3-40e8-be2a-1ebb79834e9d)
 * [Military Laptop Computer](https://www.cgtrader.com/3d-models/military/other/military-laptop-computer)
+* [Mountain - Landscape terrain](https://www.cgtrader.com/free-3d-models/exterior/landscape/mountain-b480a8db-2cbb-4040-a484-4298c2e00349)
 * [Old modular soviet damaged concrete wall fence with pillars](https://www.cgtrader.com/3d-models/exterior/industrial/old-modular-soviet-damaged-concrete-wall-fence-with-pillars)
 * [Red Hot Irons](https://www.cgtrader.com/3d-models/industrial/other/red-hot-irons)
 * [Sci fi desert hover bike](https://www.cgtrader.com/3d-models/vehicle/sci-fi/sci-fi-desert-hover-bike)
