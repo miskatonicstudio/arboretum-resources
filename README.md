@@ -2,6 +2,8 @@
 
 Arboretum is a short adventure game, created using Godot Engine and GOAT.
 
+This repository lists all the resources used in the game, with their corresponding licenses.
+
 ## Engine
 
 This project uses [Godot Engine](https://github.com/godotengine/godot)
@@ -11,9 +13,9 @@ distributed under [MIT license](https://godotengine.org/license).
 ## Plugins
 
 Arboretum was created using [GOAT](https://github.com/miskatonicstudio/goat) (Godot Open Adventure Template),
-a tool for making 3D first-person adventure games.
+a tool for making 3D first-person adventure games. All resources used by GOAT are listed in its repository.
 
-It also uses the following plugins:
+The game also uses the following plugins:
 * [Godot Worley Shader](https://github.com/BastiaanOlij/godot-worley-shader) by [Bastiaan Olij](https://www.youtube.com/bastiaanolij)
 * [Cloud shader](https://godotengine.org/asset-library/asset/797) by [Yui Kinomoto](https://arlez80.net/)
 
