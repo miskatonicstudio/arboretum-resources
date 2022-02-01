@@ -57,7 +57,11 @@ The entire voiceover was done by [Melissa Shaw](https://www.fiverr.com/toonlover
 * [Picking Up](https://freesound.org/people/SilverIllusionist/sounds/411177/)
 * [Rattling](https://freesound.org/people/Cell31_Sound_Productions/sounds/198095/)
 
-### PMSFX
+### Other
+
+The following files were created by [Phil Michalski](https://www.pmsfx.com/). They are distributed under a [custom license](https://www.pmsfx.com/legal-1) and are a part of the [free SAMPLER collection](https://www.pmsfx.com/sampler).
+
+* **Walking Loop** (`PM_SDNG_Stereo_Walk_Seamless_Loop_1.wav` from `PMSFX SAMPLER MARCH 2021 Part2`) 
 
 ## Textures and images
 
