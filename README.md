@@ -39,6 +39,10 @@ The game also uses the following plugins:
 ## Textures and images
 
 * [Particle Pack](https://www.kenney.nl/assets/particle-pack) by [Kenney](https://www.kenney.nl/)
+* [Ground 014](https://ambientcg.com/view?id=Ground014)
+* [Leaf Set 011](https://ambientcg.com/view?id=LeafSet011)
+* [Metal 026](https://ambientcg.com/view?id=Metal026)
+* [Rock 029](https://ambientcg.com/view?id=Rock029)
 
 ## Fonts
 
