@@ -34,6 +34,8 @@ The game also uses the following plugins:
 
 ## Voiceover
 
+The entire voiceover was done by [Melissa Shaw](https://www.fiverr.com/toonlover91).
+
 ## Sounds
 
 ## Textures and images
