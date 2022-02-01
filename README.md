@@ -38,6 +38,27 @@ The entire voiceover was done by [Melissa Shaw](https://www.fiverr.com/toonlover
 
 ## Sounds
 
+### Public domain:
+
+* [Alarm](https://freesound.org/people/AnthonyRamirez/sounds/455409/)
+* [Button](https://freesound.org/people/LamaMakesMusic/sounds/403556/)
+* [Dashboard Activation](https://freesound.org/people/Klerrp/sounds/143211/)
+* [Generator](https://freesound.org/people/DiscoveryME/sounds/367175/)
+* [Heating Up](https://freesound.org/people/rombart/sounds/197800/)
+* [Maggot Dying](https://freesound.org/people/spookymodem/sounds/202100/)
+* [Maggot Hissing](https://freesound.org/people/j1987/sounds/140715/)
+* [Maggot Munching](https://freesound.org/people/dav0r/sounds/223964/)
+* [Squeak](https://freesound.org/people/alienistcog/sounds/219271/)
+* [Switch](https://freesound.org/people/Deathscyp/sounds/404049/)
+
+### Creative Commons Attribution:
+
+* [Intro](https://freesound.org/people/SFX_AFRIK/sounds/583119/)
+* [Picking Up](https://freesound.org/people/SilverIllusionist/sounds/411177/)
+* [Rattling](https://freesound.org/people/Cell31_Sound_Productions/sounds/198095/)
+
+### PMSFX
+
 ## Textures and images
 
 * [Particle Pack](https://www.kenney.nl/assets/particle-pack) by [Kenney](https://www.kenney.nl/)
