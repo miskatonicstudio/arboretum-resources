@@ -49,7 +49,12 @@ The entire voiceover was done by [Melissa Shaw](https://www.fiverr.com/toonlover
 * [Maggot Hissing](https://freesound.org/people/j1987/sounds/140715/)
 * [Maggot Munching](https://freesound.org/people/dav0r/sounds/223964/)
 * [Squeak](https://freesound.org/people/alienistcog/sounds/219271/)
+* [Strong Wind](https://freesound.org/people/felix.blume/sounds/146914/)
 * [Switch](https://freesound.org/people/Deathscyp/sounds/404049/)
+* [Valve](https://freesound.org/people/Lemonadexpert/sounds/542124/)
+* [Vehicle](https://freesound.org/people/MickBoere/sounds/348857/)
+* [Water](https://freesound.org/people/macdaddyno1/sounds/321592/)
+* [Wind](https://freesound.org/people/kyles/sounds/454072/)
 
 ### Creative Commons Attribution:
 
