@@ -7,7 +7,7 @@ This repository lists all the resources used in the game, with their correspondi
 ## Engine
 
 This project uses [Godot Engine](https://github.com/godotengine/godot)
-version [3.3.4 stable](https://downloads.tuxfamily.org/godotengine/3.3.4/),
+version [3.4.2 stable](https://downloads.tuxfamily.org/godotengine/3.4.2/),
 distributed under [MIT license](https://godotengine.org/license).
 
 ## Plugins
