@@ -1,8 +1,8 @@
-https://user-images.githubusercontent.com/36821133/230891437-cf0ab2cb-db12-4bbe-8322-3b4dbfb367e3.mp4
+https://user-images.githubusercontent.com/36821133/230896526-019c94b3-1994-4ce4-a570-7c986d02392d.mp4
 
 # Arboretum (resources repository)
 
-Arboretum is a short adventure game, created using Godot Engine and GOAT.
+Arboretum is a short adventure game, created using Godot Engine and GOAT. It is available on [itch.io](https://miskatonicstudio.itch.io/arboretum) and on Miskatonic Studio's [website](https://miskatonicstudio.com/).
 
 This repository lists all the resources used in the game, with their corresponding licenses.
 
